@@ -1,6 +1,0 @@
-2017-03-09 10:55:23 INFO  HelloWorld:14 - hello world
-2017-03-09 10:55:23 TRACE Slf4jSample:17 - Hello logging!
-2017-03-09 10:55:23 DEBUG Slf4jSample:18 - Hello logging!
-2017-03-09 10:55:23 INFO  Slf4jSample:19 - Hello logging!
-2017-03-09 10:55:23 WARN  Slf4jSample:20 - Hello logging!
-2017-03-09 10:55:23 ERROR Slf4jSample:21 - Hello logging!
